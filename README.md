@@ -13,8 +13,7 @@ A simple **HTML and CSS-based web application** that provides a clean and respon
 
 📁 **Features**
 
-  - 🎓 Well-structured learning content layout  
-  - 💻 Fully responsive design for desktop and mobile  
+  - 🎓 Well-structured learning content layout     
   - 🖱️ Smooth navigation between sections  
   - 🖌️ Clean and visually appealing UI  
 
